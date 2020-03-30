@@ -1,0 +1,22 @@
+{
+  "name": "gulu",
+  "version": "0.0.1",
+  "description": "是一个UI框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gjii/gulu.git"
+  },
+  "keywords": [
+    "vue，UI"
+  ],
+  "author": "gjii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gjii/gulu/issues"
+  },
+  "homepage": "https://github.com/gjii/gulu#readme"
+}
